@@ -1,0 +1,4 @@
+Number of problems: 4
+Time to solve: 2 hours
+Test mode: Offline test
+Date and timing: 04-10-2024, 9:00 PM onwards
